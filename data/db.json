@@ -289,6 +289,12 @@
       "password": "$2a$10$NqyOBvVOZE1WUHx2ETv/b.Bs.AgwK3uM.r28tLY01k//FZHcLkdOW",
       "name": "Tu Huy",
       "id": 2
+    },
+    {
+      "email": "guest@example.com",
+      "password": "$2a$10$WN5kqIoyfpcGErjdhYHoJ.IhxlsnmWNMM.m.OeUQh5W3gPywFbyXi",
+      "name": "Guest",
+      "id": 3
     }
   ]
 }
